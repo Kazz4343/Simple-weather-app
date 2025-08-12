@@ -1,5 +1,5 @@
-# Pokedex V.2
+# Simple Weather App
 
-This is a Pokedex V2 that I create while practicing create web app with api and other things that my help me learn and ultimately landing a job
+This is another project of my API practice 
 
 
